@@ -82,3 +82,33 @@ Wallpapers of Footprint series from Smartisan 锤子足迹系列壁纸
 
   ![](wallpapers/agatha_christie.jpg)  
 </details>
+
+<details>
+  <summary>1884-10-13 本初子午线 Prime Meridian adopted</summary>
+
+  ![](wallpapers/prime_meridian.jpg)  
+</details>
+
+<details>
+  <summary>1848-05-23 滑翔机之父李林塔尔出生 Birthday of Otto Lilienthal, the "flying man"</summary>
+
+  ![](wallpapers/lilienthal.jpg)  
+</details>
+
+<details>
+  <summary>1984-06-06 电子游戏《俄罗斯方块》发布 Release date of Tetris</summary>
+
+  ![](wallpapers/tetris.jpg)  
+</details>
+
+<details>
+  <summary>1960-06-16 《惊魂记》在美国首演 Psyco's initial release date</summary>
+
+  ![](wallpapers/psyco.jpg)  
+</details>
+
+<details>
+  <summary>1898-06-17 画家埃舍尔出生 Birthday of Maurits Cornelis Escher</summary>
+
+  ![](wallpapers/escher.jpg)  
+</details>
