@@ -52,3 +52,33 @@ Wallpapers of Footprint series from Smartisan 锤子足迹系列壁纸
 
   ![](wallpapers/dog_in_space.jpg)  
 </details>
+
+<details>
+  <summary>1973-10-20 澳大利亚悉尼歌剧院建成 Sydney Opera House founded</summary>
+
+  ![](wallpapers/opera_house.jpg)  
+</details>
+
+<details>
+  <summary>1768-12-6 《大英百科全书》出版 First publish of The Encyclopædia Britannica</summary>
+
+  ![](wallpapers/encyclopedia.jpg)  
+</details>
+
+<details>
+  <summary>1887-08-12 薛定谔诞生 Brithday of Erwin Schrödinger</summary>
+
+  ![](wallpapers/schrodinger.jpg)  
+</details>
+
+<details>
+  <summary>1958-08-29 迈克尔·杰克逊诞生 Birthday of Michael Jackson</summary>
+
+  ![](wallpapers/michael_jackson.jpg)  
+</details>
+
+<details>
+  <summary>1890-09-15 阿加莎·克里斯蒂诞生 Birthday of Agatha Christie</summary>
+
+  ![](wallpapers/agatha_christie.jpg)  
+</details>
