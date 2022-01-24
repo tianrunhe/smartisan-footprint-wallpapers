@@ -112,3 +112,63 @@ Wallpapers of Footprint series from Smartisan 锤子足迹系列壁纸
 
   ![](wallpapers/escher.jpg)  
 </details>
+
+<details>
+  <summary>1900-06-29 《小王子》作者出生 Birthday of Antoine de Saint-Exupéry, author of The Little Prince</summary>
+
+  ![](wallpapers/little_prince.jpg)  
+</details>
+
+<details>
+  <summary>1928-07-07 切片面包被发明 Sliced bread was first sold</summary>
+
+  ![](wallpapers/sliced_bread.jpg)  
+</details>
+
+<details>
+  <summary>1969-07-20 人类首次登上月球 First land on Moon</summary>
+
+  ![](wallpapers/moon.jpg)  
+</details>
+
+<details>
+  <summary>1895-11-08 首次发现X射线 Date of X-ray was discovered</summary>
+
+  ![](wallpapers/x_ray.jpg)  
+</details>
+
+<details>
+  <summary>1945-12-06 微波炉面世 Microwave was invented</summary>
+
+  ![](wallpapers/microwave.jpg)  
+</details>
+
+<details>
+  <summary>1935-11-30 伍迪·艾伦出生 Birthday of Woody Allen</summary>
+
+  ![](wallpapers/woody_allen.jpg)  
+</details>
+
+<details>
+  <summary>1787-11-18 照相机发明者达盖尔出生 Brithday of Louis Daguerre, father of photography</summary>
+
+  ![](wallpapers/camera.jpg)  
+</details>
+
+<details>
+  <summary>1989-12-17 动画片《辛普森一家》首播 First episode date of The Simpsons</summary>
+
+  ![](wallpapers/simpson.jpg)  
+</details>
+
+<details>
+  <summary>1831-12-27 达尔文开始五年的环球旅行 The round-the-world voyage by Charles Darwin started</summary>
+
+  ![](wallpapers/darwin.jpg)  
+</details>
+
+<details>
+  <summary>1877-11-21 爱迪生宣布发明留声机 Phonograph invented by Thomas Edison</summary>
+
+  ![](wallpapers/phonograph.jpg)  
+</details>
