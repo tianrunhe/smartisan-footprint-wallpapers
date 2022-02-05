@@ -172,3 +172,136 @@ Wallpapers of Footprint series from Smartisan 锤子足迹系列壁纸
 
   <img src="wallpapers/phonograph.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
 </details>
+
+<details>
+  <summary>1605-01-16 《唐吉诃德》出版 Original publish date of Don Quixote</summary>
+
+  <img src="wallpapers/don_quixote.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1958-08-25 世界第一份方便面问世 Instant noodles were invented</summary>
+
+  <img src="wallpapers/instant_noodle.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1885-11-29 戴勒姆发明摩托车 Motocycle was invented by Gottlieb Daimler</summary>
+
+  <img src="wallpapers/motocycle.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1998-09-04 Google生日 Birthday of Google</summary>
+
+  <img src="wallpapers/google1.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+  <img src="wallpapers/google2.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1890-09-09 肯德基创始人哈兰·山德士诞辰 Birthday of Colonel Harland Sanders, the founder of KFC</summary>
+
+  <img src="wallpapers/kfc.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1985-09-13 《超级马里奥兄弟》面世 First publish date of Super Mario Bros</summary>
+
+  <img src="wallpapers/mario.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1982-09-19 历史上第一个网络表情符号诞生 First smiley emoticon was used</summary>
+
+  <img src="wallpapers/emoticon.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1994-09-22 老友记首播 First air date of Friends</summary>
+
+  <img src="wallpapers/friends.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1961-09-26 鲍勃迪伦首次公开演出 Bob Dylan's first public performance</summary>
+
+  <img src="wallpapers/bob_dylan.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1928-09-28 弗莱明发现青霉素 Penicillin was discovered by Sir Alexander Fleming</summary>
+
+  <img src="wallpapers/penicillin.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1959-10-07 人类首次拍摄到月球背面 Far side of the Moon was photographed</summary>
+
+  <img src="wallpapers/moon_back.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>2001-10-12 告别宝丽来 Bye, Polaroid</summary>
+
+  <img src="wallpapers/polaroid.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1969-10-21 杰克·凯鲁亚克去世 Jack Kerouac died</summary>
+
+  <img src="wallpapers/jack_kerouac.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1879-10-22 世界上第一盏电灯诞生 World's first light bulb was invented</summary>
+
+  <img src="wallpapers/light_bulb.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>2001-10-23 第一代iPod发布 First generation of iPod was released</summary>
+
+  <img src="wallpapers/ipod.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1929-11-07 纽约现代艺术博物馆（MOMA）创建 MoMa was founded</summary>
+
+  <img src="wallpapers/moma.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1989-11-09 推倒柏林墙 Fall of the Berlin Wall</summary>
+
+  <img src="wallpapers/berlin_wall.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1970-11-17 道格拉斯发明鼠标获得专利 Douglas Engelbart invented computer mouse and earned patent</summary>
+
+  <img src="wallpapers/mouse.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1859-11-24 达尔文《物种起源》出版 Charles Darwin’s On The Origin of Species was published</summary>
+
+  <img src="wallpapers/origin_of_species.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1835-12-01 安徒生出版第一部童话集 First publish of Hans Christian Andersen's fairy tales</summary>
+
+  <img src="wallpapers/andersen.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1911-12-14 人类首次到达南极点 The first ever expedition to reach the Southern Pole</summary>
+
+  <img src="wallpapers/south_pole.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
+
+<details>
+  <summary>1914-12-24 圣诞节休战 Christmas truce</summary>
+
+  <img src="wallpapers/christmas_truce.jpg" style="width:250px;margin-left:auto;margin-right:auto;display:block;">
+</details>
